@@ -12,6 +12,7 @@ export const imageBaseURL = 'https://image.tmdb.org/t/p/w500';
 //DECLARACIONES
 let cont = 1;
 let groupGenres = [];
+let vec;
 const listApi = document.querySelector('.list_api');
 const listPages = document.getElementById('listPages');
 
